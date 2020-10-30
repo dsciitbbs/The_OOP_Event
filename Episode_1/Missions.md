@@ -29,6 +29,7 @@ Pick any language you are familiar with: C++ / Java / Python 3
 		- Can you customize it?
 	- Try assigning an Object to another
 	- Customize the Constructor
+	- Try declaring an Object of class 'Bike' inside the Bike class itself. How can you solve the error that pops up?
 
 ### 4. Further
 1. Say you did the above exercise
