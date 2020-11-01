@@ -1,3 +1,4 @@
+## Readables...
 These are some places you can get more info:
 
 General:
@@ -13,3 +14,7 @@ C++:
 JAVA:
 * https://www.w3schools.com/java/java_oop.asp
 * https://www.javatpoint.com/java-oops-concepts
+
+
+## Doables... 
+* https://github.com/ashish1294/ChessOOP
