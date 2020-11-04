@@ -1,6 +1,7 @@
 ## The OOP Event
-    Immerse yourself into the world of
 ```
+    Immerse yourself into the world of
+    
         #####        #####        #####
       ##    ##     ##    ##     ##   ##
      ##    ##     ##    ##     ####### 
@@ -25,3 +26,4 @@
     - [Misc 1](https://rogerdudler.github.io/git-guide/)
         - Visually rich
 
+### Please do refer the [Resources.md](https://github.com/dsciitbbs/The_OOP_Event/blob/main/Resources.md) file to get a much much wider tutorial list (specially the first repo link).
