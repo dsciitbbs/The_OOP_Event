@@ -1,6 +1,9 @@
 ## Readables...
 These are some places you can get more info:
 
+(Almost Exhaustive) Repo of reading materials
+* https://github.com/crio-do/Introductory-Reading-Material
+
 General:
 * https://www.geeksforgeeks.org/oops-object-oriented-design/
 
