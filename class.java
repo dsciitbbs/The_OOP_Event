@@ -5,10 +5,10 @@
 class Bike{
    String Size ;
    int cost;
-    static void changeSpeed(){
+    static void changeSpeed(int cost){
     System.out.println("cost");
    }
-   public static void main(String args){
+   public static void main(String args[]){
        changeSpeed();
        Bike s1 = new Bike();
        s1.cost = 10000;
@@ -21,7 +21,7 @@ class Car{
    int Mileage;
    int NumberofGears;
    int MaxSpeed;
-     static void turn(){
+     static void turn(int MaxSpeed){
        
          System.out.println("MaxSpeed");
      }
